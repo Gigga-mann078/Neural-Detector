@@ -12,6 +12,7 @@ This is more of an experimental/research product than a finished tool. If projec
 
 I do not represent any country, educational institution, society, or organization - but I would really like to.
 
-**Write to me.**
-
 ![Demo](screenshots/я-ухожу-я-сделал-все-что-мог-ельцин.gif)
+
+                                                 
+                                           **Write to me.**
