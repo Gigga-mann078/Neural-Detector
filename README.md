@@ -14,4 +14,3 @@ I do not represent any country, educational institution, society, or organizatio
 
 **Write to me.**
 
-https://tenor.com/view/я-ухожу-я-сделал-все-что-мог-ельцин-gif-15802642259539920116
