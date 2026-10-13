@@ -1,6 +1,6 @@
 ✨**Neural-Detector**
 Hybrid ai text detector:perplexity,neural network,web search.Beautiful UI
-📖## About
+## 📖 About
 
 This is a hybrid neural network detector that combines multiple analysis methods into a single ensemble. It uses adaptive triggers and has a clean animated interface.
 
