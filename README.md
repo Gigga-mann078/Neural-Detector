@@ -14,3 +14,4 @@ I do not represent any country, educational institution, society, or organizatio
 
 **Write to me.**
 
+![Demo](screenshots/я-ухожу-я-сделал-все-что-мог-ельцин.gif)
