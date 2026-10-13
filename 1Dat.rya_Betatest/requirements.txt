@@ -1,0 +1,9 @@
+dearpygui
+numpy
+torch
+transformers
+sentence-transformers
+langid
+requests
+beautifulsoup4
+ddgs
